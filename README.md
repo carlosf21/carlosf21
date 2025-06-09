@@ -13,9 +13,9 @@
 
 ###
 
-🎓 Computer Engineering student at University of Minho
-🎸 Lover of loud guitars and louder code
-🎮 Button-masher by night, bug-smasher by day
+<p>🎓 <strong>Computer Engineering student at University of Minho</strong></p>
+<p>🎸 Lover of <em>loud guitars</em> and <em>louder code</em></p>
+<p>🎮 Button-masher by night, bug-smasher by day</p>
 
 ###
 

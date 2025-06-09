@@ -2,14 +2,15 @@
 
 
 
-<div align="left" style="display: flex; gap: 8px;">
-  <a href="https://www.linkedin.com/in/carlosfernandes21/" target="_blank">
+<div align="left">
+  <a href="https://www.linkedin.com/in/carlosfernandes21/" target="_blank" style="text-decoration: none; margin-right: 8px;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/s0ul21" target="_blank">
+  <a href="https://discord.com/users/s0ul21" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
 </div>
+
 
 
 ###

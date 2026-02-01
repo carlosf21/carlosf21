@@ -21,12 +21,3 @@
 <p>🎓 <strong>Computer Engineering student at University of Minho</strong></p>
 <p>🎸 Lover of <em>loud guitars</em> and <em>louder code</em></p>
 <p>🎮 Button-masher by night, bug-smasher by day</p>
-
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosf21&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
